@@ -1,0 +1,28 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_0E8E8FC3_0592_8561_4181_DDE3A21F6061.label = Consltorio Dra
+panorama_0E8ED759_0592_8561_416C_44182BA76D35.label = Consultorio Dr
+panorama_0E8E5EBD_0592_8721_418D_89E7E48C3617.label = Consultorio Dr
+panorama_0E8EA81D_0592_8AE6_4182_743730CB20FA.label = Consultorio Dra
+panorama_0E89B14E_059D_9D63_4185_F5957F3F3D7B.label = Exame USS e CardioToco
+panorama_0E8E8B2D_0592_8D26_4195_04DC28F9A960.label = Exames Consultorio Dr
+panorama_0E8E8388_0592_9DEE_4195_88EB3525394B.label = Exames Consultorio Dr
+panorama_0E896BE0_0592_8D5E_418F_404CFB68AF54.label = Exames Consultorio Dra
+panorama_0E89B48D_0592_7BE6_418D_5E362B3CB8DB.label = Exames Dra
+panorama_0E10B174_0593_BD26_4162_75FA3FAF1218.label = Externa Frente
+panorama_0E8E3E49_0593_8761_4193_7488693391B3.label = Externa Lateral
+panorama_0E8E0B1D_0593_8EE6_4159_AE8ECF5BBAA0.label = Recepção
+panorama_0E8EB1C8_0592_BD6E_4167_1529D6857518.label = Recepção Interna
+panorama_0E8E8812_0592_8AE2_4161_6B4E8340D4FE.label = Sala Espera
+panorama_0E8E9507_0592_9AE2_418F_DD11C559403A.label = Sala de Espera
+
+## Tour
+
+### Description
+tour.description = Clinica Crivellin Ginecologia e Obstetrícia
+
+### Title
+tour.name = Clinica Crivellin Ginecologia e Obstetrícia
